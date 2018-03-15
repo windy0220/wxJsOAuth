@@ -2,9 +2,9 @@ var wx = {};
 //=======================================你需要修改的内容======================================
 //参数设置
 //*请在公众号后台网页授权中填写 www.你要授权的域名.com
-wx.appid = "wxb92c68ed0ba85a47"; //公号appid
-wx.secret = "77338e0b83dc391bdf5de07a772d2e50"; //公号secret
-wx.turnlink = "http://www.hechuangdadao.com/"; //授权后重定向的回调链接地址
+wx.appid = "####"; //公号appid
+wx.secret = "####"; //公号secret
+wx.turnlink = "http://www.bigma.cc/"; //授权后重定向的回调链接地址
 wx.scope = "snsapi_userinfo"; //snsapi_base OR snsapi_userinfo
 wx.state = ""; //重定向后会带上state参数，开发者可以填写a-zA-Z0-9的参数值，最多128字节
 //=============================================================================================
